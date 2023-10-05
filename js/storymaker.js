@@ -34,23 +34,31 @@ var storyParagraph = document.getElementById("story");
 
 // Variables for pre-defined arrays
 var nouns1 = [
-  "Mother",
-  "Father",
-  "Sister",
-  "Brother",
-  "The cat",
+  "The turkey",
+  "Mom",
+  "Dad",
   "The dog",
-  "The turtle",
+  "The teacher",
+  "The elephant",
+  "The Cat",
 ];
-var verbs = ["ran", "jumped", "slept", "laughed", "loved"];
-var adjectives = ["happy", "sad", "funny", "exciting", "wonderful", "joyful"];
-var nouns2 = ["beach", "forest", "castle", "mountain", "home"];
+var verbs = ["sat on", "ate", "danced with", "saw", "doesn't like", "kissed"];
+var adjectives = [
+  "a funny",
+  "a scary",
+  "a goofy",
+  "a slimy",
+  "a barking",
+  "a fat",
+];
+var nouns2 = ["goat", "monkey", "fish", "cow", "frog", "bug", "worm"];
 var settings = [
-  "in the morning",
-  "under the stars",
-  "on a sunny day",
-  "in a magical land",
-  "on a rainy day",
+  "on the moon",
+  "on the chair",
+  "in my spaghetti",
+  "in my soup",
+  "on the grass",
+  "in my shoes",
 ];
 
 // Variables for count to grab array elements
